@@ -1,5 +1,5 @@
 {
-    "name": "Mars lander",
+    "name": "Zack's Mars lander",
     "description": "",
     "dependencies": {
         "device": "*"
